@@ -1,4 +1,4 @@
-# M5 - BandKamp Generic View refatorer
+# M5 - BandKamp Generic View 
 
 ## Instalação dos pacotes de teste
 
